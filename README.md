@@ -1,5 +1,6 @@
 # Temperature Monitoring Telegram Bot for ESP32
 
+![TgESP32Bot](https://github.com/AlexRodving/TgESP32Bot/blob/main/TgESP32Bot.jpg)
 
 ## 📝 Описание проекта
 
